@@ -88,6 +88,8 @@ button {
 button:hover {
     background-color: #555;
 }
+/* Your existing styles go here */
+
 #additional-containers {
     display: flex;
     justify-content: space-between;
@@ -101,3 +103,6 @@ button:hover {
     box-sizing: border-box;
     border: 1px solid #ccc; /* Add border or other styling as needed */
   }
+  
+  /* Add any other styles for the containers as needed */
+  
