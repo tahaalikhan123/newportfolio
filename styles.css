@@ -88,3 +88,16 @@ button {
 button:hover {
     background-color: #555;
 }
+#additional-containers {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Adjust the margin as needed */
+  }
+  
+  .container {
+    width: calc(25% - 10px); /* Adjust the width and margin as needed */
+    margin-right: 10px; /* Adjust the margin as needed */
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc; /* Add border or other styling as needed */
+  }
